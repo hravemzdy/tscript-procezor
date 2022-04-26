@@ -1,0 +1,1 @@
+﻿# hravemzdy.org payroll-processor**Legalios** - Salary, Health, Social, Taxing Properties for years 2010-2022**Procezor** - Calculation Processor**Optimula** - Salary Optimization Calculator**Payrolex** - Salary, Health, Social, Taxing Calculatorgreatwork@hravemzdy.org
